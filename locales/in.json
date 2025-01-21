@@ -3,32 +3,32 @@
         "not_online": "Pemain tidak online",
         "wrong_format": "Format salah",
         "missing_args": "Tidak semua argumen telah dimasukkan (x, y, z)",
-        "missing_args2": "Semua argumen harus diisi!",
+        "missing_args2": "Semua argumen harus diisi",
         "no_access": "Tidak ada akses ke perintah ini",
-        "company_too_poor": "Majikan kamu bangkrut",
+        "company_too_poor": "Dana perusahaan tidak tersedia",
         "item_not_exist": "Barang tidak tersedia",
-        "too_heavy": "Inventory terlalu penuh",
-        "location_not_exist": "Location does not exist",
-        "duplicate_license": "Duplicate Rockstar License Found",
-        "no_valid_license":  "No Valid Rockstar License Found",
-        "not_whitelisted": "You're not whitelisted for this server",
-        "server_already_open": "The server is already open",
-        "server_already_closed": "The server is already closed",
-        "no_permission": "You don't have permissions for this..",
-        "no_waypoint": "No Waypoint Set.",
-        "tp_error": "Error While Teleporting.",
-        "connecting_database_timeout": "Connection to database timed out. (Is the SQL server on?)",
-        "connecting_error": "An error occurred while connecting to the server. (Check your server console)",
-        "no_match_character_registration": "Anything other than letters aren't allowed, trailing whitespaces aren't allowed either and words must start with a capital letter in input fields. You can however add words with spaces inbetween.",
-        "already_in_queue": "You are already in queue.",
-        "no_subqueue": "You were not let in any sub-queue."
+        "too_heavy": "Penyimpanan terlalu berat atau penuh",
+        "location_not_exist": "Lokasi tidak ditemukan",
+        "duplicate_license": "Terdapat Lisensi Rockstar yang sama",
+        "no_valid_license": "Lisensi Rockstar tidak dapat ditemukan/salah",
+        "not_whitelisted": "Kamu tidak termasuk dalam Whitelist di server",
+        "server_already_open": "Server telah dibuka",
+        "server_already_closed": "Server telah ditutup",
+        "no_permission": "Kamu tidak memiliki izin untuk ini.",
+        "no_waypoint": "Tidak ada waypoint yang ditentukan.",
+        "tp_error": "Terjadi kesalahan saat teleportasi.",
+        "connecting_database_timeout": "Koneksi ke database kedaluwarsa. (Apakah server SQL aktif?)",
+        "connecting_error": "Terjadi kesalahan saat menghubungkan ke server. (Periksa konsol server Anda)",
+        "no_match_character_registration": "Selain huruf tidak diizinkan, spasi di awal atau akhir juga tidak diizinkan, dan kata harus diawali dengan huruf kapital. Namun, Anda dapat menambahkan kata dengan spasi di antaranya.",
+        "already_in_queue": "Anda sudah berada dalam antrean.",
+        "no_subqueue": "Anda tidak dimasukkan ke sub-antrean mana pun."
     },
     "success": {
-        "server_opened": "The server has been opened",
-        "server_closed": "The server has been closed",
-        "teleported_waypoint": "Teleported To Waypoint.",
-        "character_deleted": "Character deleted!",
-        "character_deleted_citizenid": "You successfully deleted the character with Citizen ID %s."
+        "server_opened": "Server telah dibuka",
+        "server_closed": "Server telah ditutup",
+        "teleported_waypoint": "Berhasil teleport ke waypoint.",
+        "character_deleted": "Karakter berhasil dihapus!",
+        "character_deleted_citizenid": "Anda berhasil menghapus karakter dengan Citizen ID %s."
     },
     "info": {
         "received_paycheck": "Kamu menerima gaji kamu sebesar $%s",
@@ -36,139 +36,139 @@
         "gang_info": "Gang: %s | Pangkat: %s",
         "on_duty": "Kamu sekarang sedang bertugas!",
         "off_duty": "Kamu sekarang sedang tidak bertugas!",
-        "checking_ban": "Hello %s. We are checking if you are banned.",
-        "join_server": "Welcome %s to %s.",
-        "checking_whitelisted": "Hello %s. We are checking your allowance.",
-        "exploit_banned": "You have been banned for cheating. Check our Discord for more information: %s",
-        "exploit_dropped": "You Have Been Kicked For Exploitation",
+        "checking_ban": "Halo %s. Kami sedang memeriksa apakah Anda diblokir.",
+        "join_server": "Selamat datang %s di %s.",
+        "checking_whitelisted": "Halo %s. Kami sedang memeriksa izin Anda.",
+        "exploit_banned": "Anda telah diblokir karena kecurangan. Periksa Discord kami untuk informasi lebih lanjut: %s",
+        "exploit_dropped": "Anda telah dikeluarkan karena eksploitasi",
         "multichar_title": "Qbox Multichar",
-        "multichar_new_character": "New Character #%s",
-        "char_male": "Male",
-        "char_female": "Female",
-        "play": "Play",
-        "play_description": "Play as %s",
-        "delete_character": "Delete Character",
-        "delete_character_description": "Delete %s",
-        "logout_command_help": "Logs you out of your current character",
-        "check_id": "Check your Server ID",
-        "deletechar_command_help": "Delete a players character",
-        "deletechar_command_arg_player_id": "Player ID",
-        "character_registration_title": "Character Registration",
-        "first_name": "First Name",
-        "last_name": "Last Name",
-        "nationality": "Nationality",
-        "gender": "Sex",
-        "birth_date": "Birth Date",
-        "select_gender": "Select your gender...",
-        "confirm_delete": "Are you sure you wish to delete this character?",
-        "in_queue": "🐌 You are %s/%s in queue. (%s) %s"
+        "multichar_new_character": "Karakter Baru #%s",
+        "char_male": "Laki-laki",
+        "char_female": "Perempuan",
+        "play": "Mainkan",
+        "play_description": "Mainkan sebagai %s",
+        "delete_character": "Hapus Karakter",
+        "delete_character_description": "Hapus %s",
+        "logout_command_help": "Keluar dari karakter Anda saat ini",
+        "check_id": "Periksa ID Server Anda",
+        "deletechar_command_help": "Hapus karakter pemain",
+        "deletechar_command_arg_player_id": "ID Pemain",
+        "character_registration_title": "Pendaftaran Karakter",
+        "first_name": "Nama Depan",
+        "last_name": "Nama Belakang",
+        "nationality": "Kebangsaan",
+        "gender": "Jenis Kelamin",
+        "birth_date": "Tanggal Lahir",
+        "select_gender": "Pilih jenis kelamin Anda...",
+        "confirm_delete": "Apakah Anda yakin ingin menghapus karakter ini?",
+        "in_queue": "🐌 Anda berada di %s/%s dalam antrean. (%s) %s"
     },
     "command": {
         "tp": {
-            "help": "TP To Player or Coords (Admin Only)",
+            "help": "TP ke Pemain atau Koordinat (Hanya Admin)",
             "params": {
-                "x": { "name": "id/x", "help": "ID of player or X position"},
-                "y": { "name": "y", "help": "Y position"},
-                "z": { "name": "z", "help": "Z position"}
+                "x": { "name": "id/x", "help": "ID pemain atau posisi X" },
+                "y": { "name": "y", "help": "Posisi Y" },
+                "z": { "name": "z", "help": "Posisi Z" }
             }
         },
-        "tpm": { "help": "TP To Marker (Admin Only)" },
-        "togglepvp": { "help": "Toggle PVP on the server (Admin Only)" },
+        "tpm": { "help": "TP ke Penanda (Hanya Admin)" },
+        "togglepvp": { "help": "Toggle PVP di server (Hanya Admin)" },
         "addpermission": {
-            "help": "Give Player Permissions (God Only)",
+            "help": "Beri Pemain Izin (Hanya God)",
             "params": {
-                "id": { "name": "id", "help": "ID of player" },
-                "permission": { "name": "permission", "help": "Permission level" }
+                "id": { "name": "id", "help": "ID pemain" },
+                "permission": { "name": "permission", "help": "Tingkat izin" }
             }
         },
         "removepermission": {
-            "help": "Remove Player Permissions (God Only)",
+            "help": "Hapus Izin Pemain (Hanya God)",
             "params": {
-                "id": { "name": "id", "help": "ID of player" },
-                "permission": { "name": "permission", "help": "Permission level" }
+                "id": { "name": "id", "help": "ID pemain" },
+                "permission": { "name": "permission", "help": "Tingkat izin" }
             }
         },
-        "openserver": { "help": "Open the server for everyone (Admin Only)" },
+        "openserver": { "help": "Buka server untuk semua orang (Hanya Admin)" },
         "closeserver": {
-            "help": "Close the server for people without permissions (Admin Only)",
+            "help": "Tutup server untuk orang tanpa izin (Hanya Admin)",
             "params": {
-                "reason": { "name": "reason", "help": "Reason for closing (optional)" }
+                "reason": { "name": "reason", "help": "Alasan penutupan (opsional)" }
             }
         },
         "car": {
-            "help": "Spawn Vehicle (Admin Only)",
+            "help": "Spawn Kendaraan (Hanya Admin)",
             "params": {
-                "model": { "name": "model", "help": "Model name of the vehicle" },
-                "keepCurrentVehicle": { "name": "keepCurrentVehicle", "help": "Keep the vehicle you're in right now (leave empty to delete current vehicle)" }
+                "model": { "name": "model", "help": "Nama model kendaraan" },
+                "keepCurrentVehicle": { "name": "keepCurrentVehicle", "help": "Pertahankan kendaraan yang Anda gunakan sekarang (kosongkan untuk menghapus kendaraan saat ini)" }
             }
         },
         "dv": {
-            "help": "Delete Vehicle (Admin Only)",
+            "help": "Hapus Kendaraan (Hanya Admin)",
             "params": {
-                "radius": { "name": "radius", "help": "Radius to delete vehicles in (meters)" }
+                "radius": { "name": "radius", "help": "Radius untuk menghapus kendaraan (meter)" }
             }
         },
         "givemoney": {
-            "help": "Give A Player Money (Admin Only)",
+            "help": "Beri Pemain Uang (Hanya Admin)",
             "params": {
-                "id": { "name": "id", "help": "Player ID" },
-                "moneytype": { "name": "moneytype", "help": "Type of money (cash, bank, crypto)" },
-                "amount": { "name": "amount", "help": "Amount of money" }
+                "id": { "name": "id", "help": "ID Pemain" },
+                "moneytype": { "name": "moneytype", "help": "Jenis uang (cash, bank, crypto)" },
+                "amount": { "name": "amount", "help": "Jumlah uang" }
             }
         },
         "setmoney": {
-            "help": "Set Players Money Amount (Admin Only)",
+            "help": "Tetapkan Jumlah Uang Pemain (Hanya Admin)",
             "params": {
-                "id": { "name": "id", "help": "Player ID" },
-                "moneytype": { "name": "moneytype", "help": "Type of money (cash, bank, crypto)" },
-                "amount": { "name": "amount", "help": "Amount of money" }
+                "id": { "name": "id", "help": "ID Pemain" },
+                "moneytype": { "name": "moneytype", "help": "Jenis uang (cash, bank, crypto)" },
+                "amount": { "name": "amount", "help": "Jumlah uang" }
             }
         },
-        "job": { "help": "Check Your Job" },
+        "job": { "help": "Periksa Pekerjaan Anda" },
         "setjob": {
-            "help": "Set A Players Job (Admin Only)",
+            "help": "Tetapkan Pekerjaan Pemain (Hanya Admin)",
             "params": {
-                "id": { "name": "id", "help": "Player ID" },
-                "job": { "name": "job", "help": "Job name" },
-                "grade": { "name": "grade", "help": "Job grade" }
+                "id": { "name": "id", "help": "ID Pemain" },
+                "job": { "name": "job", "help": "Nama pekerjaan" },
+                "grade": { "name": "grade", "help": "Tingkat pekerjaan" }
             }
         },
         "changejob": {
-            "help": "Change Active Job of Player (Admin Only)",
+            "help": "Ubah Pekerjaan Aktif Pemain (Hanya Admin)",
             "params": {
-                "id": { "name": "id", "help": "Player ID" },
-                "job": { "name": "job", "help": "Job name" }
+                "id": { "name": "id", "help": "ID Pemain" },
+                "job": { "name": "job", "help": "Nama pekerjaan" }
             }
         },
         "addjob": {
-            "help": "Add Job to Player (Admin Only)",
+            "help": "Tambahkan Pekerjaan ke Pemain (Hanya Admin)",
             "params": {
-                "id": { "name": "id", "help": "Player ID" },
-                "job": { "name": "job", "help": "Job name" },
-                "grade": { "name": "grade", "help": "Job grade" }
+                "id": { "name": "id", "help": "ID Pemain" },
+                "job": { "name": "job", "help": "Nama pekerjaan" },
+                "grade": { "name": "grade", "help": "Tingkat pekerjaan" }
             }
         },
         "removejob": {
-            "help": "Remove Job from Player (Admin Only)",
+            "help": "Hapus Pekerjaan dari Pemain (Hanya Admin)",
             "params": {
-                "id": { "name": "id", "help": "Player ID" },
-                "job": { "name": "job", "help": "Job name" }
+                "id": { "name": "id", "help": "ID Pemain" },
+                "job": { "name": "job", "help": "Nama pekerjaan" }
             }
         },
-        "gang": { "help": "Check Your Gang" },
+        "gang": { "help": "Periksa Gang Anda" },
         "setgang": {
-            "help": "Set A Players Gang (Admin Only)",
+            "help": "Tetapkan Gang Pemain (Hanya Admin)",
             "params": {
-                "id": { "name": "id", "help": "Player ID" },
-                "gang": { "name": "gang", "help": "Gang name" },
-                "grade": { "name": "grade", "help": "Gang grade" }
+                "id": { "name": "id", "help": "ID Pemain" },
+                "gang": { "name": "gang", "help": "Nama gang" },
+                "grade": { "name": "grade", "help": "Tingkat gang" }
             }
         },
-        "ooc": { "help": "OOC Chat Message" },
-        "me": {
-            "help": "Show local message",
+        "removegang": {
+            "help": "Hapus Gang dari Pemain (Hanya Admin)",
             "params": {
-                "message": { "name": "message", "help": "Message to send" }
+                "id": { "name": "id", "help": "ID Pemain" },
+                "gang": { "name": "gang", "help": "Nama gang" }
             }
         }
     }
